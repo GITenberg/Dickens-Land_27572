@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '32775'
     url: http://www.gutenberg.org/2009/agents/32775
 description: England som det beskrives i Dickens' værker
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27572#Dickens-Land
 gutenberg_issued: '2008-12-20'
 gutenberg_type: Text
 identifiers:
